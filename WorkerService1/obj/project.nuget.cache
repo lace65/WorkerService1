@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "QfxHpAIpa2FBbs0Kt5rp34C8LLq9szGVVApsIQNWYzsfghg+x3865ukTdIXnR04PfeJ1WlPL5Bxso8o8UXA1gg==",
+  "success": false,
+  "projectFilePath": "C:\\Sistemas\\WorkerService1\\WorkerService1\\WorkerService1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.Extensions.Hosting. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Hosting",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.Extensions.Hosting.WindowsServices. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Hosting.WindowsServices",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
